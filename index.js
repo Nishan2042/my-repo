@@ -12,7 +12,7 @@ const PTOTracker = () => {
       sickTotal: 10,
       sickUsed: 2,
       requests: []
-    },
+          },
     { 
       id: 2, 
       name: 'Mike Chen', 
